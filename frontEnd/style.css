@@ -1,0 +1,20 @@
+body{
+    color: firebrick;
+    background-color: lightgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 100px;
+    text-align:center;
+    margin-bottom:100px;
+}
+
+#employees{
+    text-align:center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
